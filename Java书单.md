@@ -18,7 +18,7 @@
 
 1.《TCP/IP卷一》
 
-![img](C:/Users/fudingcheng/AppData/Local/YNote/data/weixinobU7VjkXGZHpMDztq_qF836G35DY/14da3aab0700451498df0f080ec75519/ea214ccfa6924348aaa62939b2fbb6c7.jpeg)
+![img](./ea214ccfa6924348aaa62939b2fbb6c7.jpeg)
 
 这本其实我刚开始没看太懂，可能是当时太水的原因，但是一般是大牛力荐的书。
 
